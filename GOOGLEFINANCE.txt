@@ -1,0 +1,2 @@
+cd D:/program files/python/scripts
+pip3.6 install googlefinance
